@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Takliiii !!</h1>
-<h3 align="center">A passionate Sardi Wali</h3>
+<h1 align="center">Hello 👋, I'm Sejal Jadhav !!</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I have started my *ML Journey*
 
